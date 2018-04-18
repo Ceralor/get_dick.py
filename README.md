@@ -2,6 +2,8 @@
 
 Just run `python get_dick.py` and find out.
 
+![alt text](https://i.imgur.com/MXrWulT.png "get_dick.py")
+
 You can also supply a byte integer amount, like `python get_dick.py 32`, to search in smaller or larger byte sets.
 
 #Can I use get_dick elsewhere?
